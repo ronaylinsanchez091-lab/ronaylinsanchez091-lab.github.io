@@ -1,0 +1,13 @@
+/* Tarjetas del menú */
+#menu .bg-white {
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+#menu .bg-white:hover {
+  box-shadow: 0 10px 20px rgba(0,0,0,0.15);
+}
+
+/* Botón de agregar */
+button {
+  transition: all 0.3s ease;
+}
